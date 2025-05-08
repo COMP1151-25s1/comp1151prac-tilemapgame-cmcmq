@@ -1,0 +1,43 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "TinyDungeon_Tileset.tsx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "TinyBattle_Tilesheet.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 2
+        },
+        "TinyDungeon_Tileset.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 3
+        },
+        "gameTilemap.tmx": {
+            "scale": 3,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 149.5,
+                "y": 105.33333333333334
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/mq10005387/Documents/comp1151prac-tilemapgame-cmcmq/Assets/Tiled/TilemapGame",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "TinyDungeon_Tileset.tsx",
+        "gameTilemap.tmx"
+    ],
+    "project": "gameTilemap.tiled-project",
+    "recentFiles": [
+        "gameTilemap.tmx",
+        "TinyDungeon_Tileset.tsx",
+        "TinyBattle_Tilesheet.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
